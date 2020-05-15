@@ -1,0 +1,41 @@
+body {
+    background-image:  url(https://abrilsuperinteressante.files.wordpress.com/2020/03/si_mapa_mundi-1.jpg?quality=70&strip=info&resize=680,453);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+   .menu{
+    background-color: white; 
+  }
+  
+   .menu ul {
+    display: flex;
+    justify-content: space-between
+  }
+  
+   .menu li {
+    list-style: none;
+  }
+  
+   a {
+     color: teal;
+    text-decoration: none; 
+  }
+  
+   a:hover {
+    text-decoration: underline;
+  }
+  
+   .site-title {
+    font-family: fantasy;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: grey;
+    font-family: courier new;
+    text-align: center;
+    font-style: italic;
+  }
+  
